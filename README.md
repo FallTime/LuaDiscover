@@ -2,7 +2,6 @@
 
 ## Resumo
 Com o objetivo de promover meu aprendizado sobre Lua e seu framework Love2D, utilizarei esse repositório como um coleção dos contéudos assimilados por mim durante algum período. Servindo posteriormente como referência.
--
 ## Abstract
 
 
