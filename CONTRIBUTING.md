@@ -3,10 +3,10 @@
 ## Convenção de commits
 |  Tipos de Commit | Descrição  |      
 |---|---|
-| `docs` | Adiciona documentação no projeto.  |     
-| `code` |  Adiciona código no projeto. | 
+| `docs` | Adiciona documentação no projeto. |     
+| `code` | Adiciona código no projeto. | 
+| `fix`  | Modificação na estrutura. |
 | `()`   | Opicional. |
-
 
 ## Exemplos
 ```
@@ -14,6 +14,9 @@
 ```
 ```
 "code - (Adição do/no {nome-do-arquivo}, ) o que foi adicionado"
+```
+```
+"fix - (modificação do/no {nome-do-arquivo}, ) o que foi modificado"
 ```
 
 
