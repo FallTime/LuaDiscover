@@ -1,3 +1,7 @@
+--[[
+Modify the eight-queen program so that it stops after printing the first solution.
+]]--
+
 N = 8 -- board size
 limit = 1
 count = 0
