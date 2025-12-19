@@ -32,6 +32,13 @@ end
 
 
 function love.draw()
+    love.graphics.printf(
+        "FPS: " .. love.timer.getFPS(), 
+        love.graphics.newFont(16),
+        10, 
+        love.graphics.getHeight() - 30,
+        love.graphics.getWidth()
+    )
     love.graphics.rectangle("fill", 10, dy, width/60, height/4)
     love.graphics.print(dx .. dy, 50, 50)
 end
